@@ -8,4 +8,5 @@ Key topics included the Software Development Life Cycle (SDLC), data structures,
 ## Reflection
 This session helped me understand that success in the technology industry requires more than programming skills. Planning, collaboration, and effective communication are equally important. The emphasis on balancing core technical knowledge with AI-assisted tools influenced how I approach my academic learning and future career preparation.
 
+## Images
 ![WhatsApp Image 2025-12-01 at 8 49 04 AM](https://github.com/user-attachments/assets/3efe2284-3bed-4893-ae41-36b8e6c9e6df)
