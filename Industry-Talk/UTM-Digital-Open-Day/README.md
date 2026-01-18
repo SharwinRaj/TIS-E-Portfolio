@@ -7,7 +7,9 @@ During the event, organisations such as Oracle Academy and DRON Malaysia shared 
 
 ## Reflection
 This event helped me gain better awareness of how technology is applied in real-world settings. Learning about different organisations and their technological solutions motivated me to further explore areas such as data, cloud computing, and artificial intelligence, and to better align my academic goals with industry needs.
+![1768724317876](https://github.com/user-attachments/assets/22b27169-7870-4ea5-980d-ecc0fd096ee6)
 ![IMG_7968](https://github.com/user-attachments/assets/e79d57dc-ab11-4e7e-b78b-5b487e0142e4)
 ![IMG_8003](https://github.com/user-attachments/assets/c5e6b1c6-329a-40fa-b088-42259c225ee7)
 ![IMG_8006](https://github.com/user-attachments/assets/b8b04787-9047-4d6d-a5fb-01b90509c3df)
+
 
