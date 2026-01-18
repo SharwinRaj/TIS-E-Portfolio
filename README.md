@@ -12,6 +12,6 @@ This repository contains my assignments and reflections for the Technology and I
 ---
 
 ## Contents
-- Industry Talk & Industry Visit
+- Industry Talk
 - PC Assembly Laboratory
 - Design Thinking (Low Fidelity Prototype)
