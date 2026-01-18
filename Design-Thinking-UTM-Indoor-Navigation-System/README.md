@@ -18,7 +18,7 @@ The slides for this design thinking project can be viewed here:
 ## Report
 The Report for this design thinking project can be viewed here:
 
-[📄 View Design Thinking Slides](UTM-Indoor-Navigation-System-Report.pdf)
+[📄 View Design Thinking Report](UTM-Indoor-Navigation-System-Report.pdf)
 
 ## Reflection
 Through this project, I learned the importance of user-centred design and structured problem-solving. The design thinking process emphasised careful planning, collaboration, and iteration before developing a solution. This experience helped me understand that effective technology solutions begin with a strong understanding of user needs and clear problem definition.
