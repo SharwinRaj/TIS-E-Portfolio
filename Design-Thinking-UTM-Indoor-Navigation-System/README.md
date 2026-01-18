@@ -8,7 +8,7 @@ The project followed the key stages of design thinking, including empathy, probl
 ## Interface Demonstration
 A short video demonstrating the low fidelity prototype interface can be viewed here:
 
-[▶ View Interface Demo](Design-Thinking-UTM-Indoor-Navigation-System-Demo.mp4)
+https://github.com/user-attachments/assets/54bc15bd-6ac9-4892-9c95-18e9158e285c
 
 ## Slides
 The slides for this design thinking project can be viewed here:
